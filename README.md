@@ -1,3 +1,4 @@
+die Kopfgeldgenerator V3.exe kann hier runtergeladen werden: https://drive.google.com/drive/folders/1kv5b0FloCFL6R9DNO7-GwXwbcPFLAABv?usp=sharing
 # 🪙 Wanted-Kopfgeld-Generator / Wanted Bounty Generator
 
 ## DE Beschreibung (German Description) 
@@ -23,6 +24,7 @@ Mit dem **Wanted-Kopfgeld-Generator** kannst du auf humorvolle Weise persönlich
 ```bash
 pip install Pillow
 
+The bounty generator V3.exe can be downloaded here: https://drive.google.com/drive/folders/1kv5b0FloCFL6R9DNO7-GwXwbcPFLAABv?usp=sharing
 # 🪙 Wanted head money generator / Wanted Bounty Generator
 
 ## EN Description (Englisch description)
